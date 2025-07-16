@@ -4,3 +4,4 @@ flask-socketio
 pymongo
 werkzeug
 eventlet
+gunicorn
